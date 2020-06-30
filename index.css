@@ -7,3 +7,10 @@ h1{
 		background-color:black;
 	}
 }
+
+@media screen and (min-width: 300px) and (max-width: 1000px) {
+	h1 {
+		text-align:center;
+		text-decoration:underline;
+	}
+}
