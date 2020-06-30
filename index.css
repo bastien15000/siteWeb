@@ -2,7 +2,7 @@ h1{
 	color:red;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width: 900px) {
 	h1 {
 		background-color:black;
 	}
